@@ -1,1 +1,1 @@
-# Team-Debugging-Dragons
+# Debugging-Dragons
